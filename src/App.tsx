@@ -32,7 +32,7 @@ function App() {
           className="text-xl font-medium max-w-2xl"
           style={{ color: '#1F2937' }}
         >
-          Esta página se encuentra actualmente en etapa de construcción.
+          Actualmente en etapa de construcción.
         </p>
       </div>
     </div>
