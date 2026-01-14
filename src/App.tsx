@@ -19,12 +19,12 @@ function App() {
       <div className="flex flex-col items-center justify-center px-6 text-center">
         <div className="flex items-center justify-center gap-8 mb-8">
           <img
-            src="/LOGOSIGEM.svg"
+            src={`${import.meta.env.BASE_URL}LOGOSIGEM.svg`}
             alt="SIGEM Logo"
             className="h-32 w-auto"
           />
           <img
-            src="/LOGOINHGEOMIN.svg"
+            src={`${import.meta.env.BASE_URL}LOGOINHGEOMIN.svg`}
             alt="INHGEOMIN Logo"
             className="h-32 w-auto"
           />
